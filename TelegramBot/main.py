@@ -5,7 +5,7 @@ from aiogram import Dispatcher, Bot, executor, types
 from random import randint, choice
 from string import ascii_letters, digits, punctuation
 
-API_TOKEN = "5859520092:AAEjt_q_FRggJD7hOX4_W9gSSwr_3phoh0Y"
+API_TOKEN = " "
 
 # инициализация бота...
 bot = Bot(token=API_TOKEN)
